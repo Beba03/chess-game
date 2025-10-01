@@ -69,7 +69,7 @@ java-chess-game/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/java-chess-game.git
+git clone https://github.com/Beba03/java-chess-game.git
 cd java-chess-game
 ```
 
